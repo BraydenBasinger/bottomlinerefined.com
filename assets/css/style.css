@@ -162,8 +162,8 @@ p {
 
 .hero-home {
   background-color: var(--white);
-  background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../img/hero-home.jpg");
-  background-position: center;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../img/hero-home.jpg");
+  background-position: center 5%;
   color: var(--navy);
   min-height: 70vh;
 }
@@ -856,6 +856,20 @@ p {
   font-size: 22px;
 }
 
+.timeline-phase {
+  display: inline-block;
+  font-family: var(--font);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--navy);
+  background: rgba(11, 25, 86, 0.08);
+  padding: 3px 10px;
+  border-radius: 3px;
+  margin-bottom: 8px;
+}
+
 .timeline-item h3 {
   color: var(--tan);
   font-size: 19px;
@@ -878,10 +892,6 @@ p {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 40px;
   margin-top: 30px;
-}
-
-.icon-columns--two {
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 }
 
 .icon-box {
@@ -913,6 +923,10 @@ p {
   font-size: 16px;
   font-weight: 300;
   line-height: 1.8;
+}
+
+.icon-box--lg-text p {
+  font-size: 18px;
 }
 
 /* ==========================================================================

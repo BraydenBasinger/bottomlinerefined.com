@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bottomlinerefined.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bottomlinerefined.com/who-we-are.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bottomlinerefined.com/what-we-do.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bottomlinerefined.com/how-we-do-it.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bottomlinerefined.com/the-blr-edge.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bottomlinerefined.com/sustainability.html</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bottomlinerefined.com/faqs.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bottomlinerefined.com/contact.html</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
